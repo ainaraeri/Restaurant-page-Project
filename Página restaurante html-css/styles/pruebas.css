@@ -1,0 +1,21 @@
+#info-container{
+    display: flex;
+    justify-content: space-between;
+}
+
+.info-card {
+    display: flex;
+    border-left: 10px solid black;
+}
+
+.nav-links {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    width: 300px;
+}
+
+.nav-links a{
+    width: 300px;
+}
+
+

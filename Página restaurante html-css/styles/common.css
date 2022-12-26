@@ -1,0 +1,32 @@
+/* Common styles */
+body{
+    margin: 0px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.navigation-wrapper {
+    height: 190px;
+    background-color: #11122b;
+    color: #cbcbcb;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 60px 100px;
+    
+}
+
+h1, h2, h3, h4, h5, h6{
+    font-family: 'Roboto Slab', serif;
+}
+
+
+
+
+
+
+
+
+
+
+
+
